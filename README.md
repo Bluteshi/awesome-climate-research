@@ -39,15 +39,11 @@ Surely, "awesomeness" can be subjective, but some basic rules can be applied to 
 - [Stanford Environmental Law Journal (Archives)](https://law.stanford.edu/stanford-environmental-law-journal-selj/selj-archive/), by Stanford Law School
 - [Essential Readings in Environmental Law](https://www.iucnael.org/en/essentials-readings-in-environmental-law-topics), by the IUCN Academy of Environmental Law
 
-
 ## Geoengineering
 
 - [The Economic Diplomacy of Geoengineering](http://www.homepages.ed.ac.uk/shs/Climatechange/Geo-politics/Schelling.pdf), by Thomas C. Schelling
-
 - [The Paradox of Climate Engineering](https://biotech.law.lsu.edu/blog/the_paradox_of_climate_engineering_global_policy.pdf), by Michael Zürn and Stefan Schäfer
-
 - [Disentangling the rhetoric of public goods from their externalities: The case of climate engineering](https://biotech.law.lsu.edu/blog/1-s2.0-S258979181930012X-main.pdf), by Robert Holahan and Prakash Kashwan
-
 - [Geoengineering Monitor](https://www.geoengineeringmonitor.org/) / [Geoengineering Map](https://map.geoengineeringmonitor.org/), by ETC Group and the Heinrich Boell Foundation
 - [Fuel To The Fire, How Geoengineering Threatens to Entrench
 Fossil Fuels and Accelerate the Climate Crisis](https://www.ciel.org/wp-content/uploads/2019/02/CIEL_FUEL-TO-THE-FIRE_How-Geoengineering-Threatens-to-Entrench-Fossil-Fuels-and-Accelerate-the-Climate-Crisis_February-2019.pdf), by the Center for International Environmental Law (CIEL)
@@ -57,10 +53,10 @@ Fossil Fuels and Accelerate the Climate Crisis](https://www.ciel.org/wp-content/
 ## Climate economics
 
 - [STERN REVIEW: The Economics of Climate Change (UK National Archives)](https://webarchive.nationalarchives.gov.uk/ukgwa/20100407172811/https:/www.hm-treasury.gov.uk/stern_review_report.htm)
-
 - [Centre for Climate Change Economics and Policy (CCCEP)](https://www.cccep.ac.uk/publications/)
-
 - [Research & Degrowth](https://degrowth.org/)
+- [Integrated Assessment Models of Climate Change](https://www.nber.org/reporter/2017number3/integrated-assessment-models-climate-change), by William Nordhaus
+- [Doughnut Economics](https://doughnuteconomics.org/) / [Doughnut (economic model)](https://en.wikipedia.org/wiki/Doughnut_(economic_model))
 
 ## Climate computing and modeling
 
@@ -96,15 +92,12 @@ Fossil Fuels and Accelerate the Climate Crisis](https://www.ciel.org/wp-content/
 - [Space Physics](https://github.com/space-physics): Space Physics modeling and analysis
   - [LOWTRAN](https://github.com/space-physics/lowtran): Atmospheric absorption extinction, scatter and irradiance model
 
-
 ## Looking for more awesomeness?
-
 
 - ![Awesome](https://awesome.re/badge.svg) [Awesome Open Atmospheric, Ocean, and Climate Science](https://github.com/pangeo-data/awesome-open-climate-science)
 - ![Awesome](https://awesome.re/badge.svg) [Awesome Open Geoscience](https://github.com/softwareunderground/awesome-open-geoscience)
 - ![Awesome](https://awesome.re/badge.svg) [Open Sustainable Technology](https://github.com/protontypes/open-sustainable-technology)
 
 ## License
-
 
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons Licence" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
