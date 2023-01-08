@@ -11,6 +11,8 @@ Contributions are very welcome. Please provide suggestions :)
 
 If you'd like to suggest modifications (e.g. resource addition, deletion, new categories etc.), please be sure to do so by opening pull requests (check [here](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request) if you don't know what it is) or create issues (check [here](https://docs.github.com/en/issues/tracking-your-work-with-issues/creating-an-issue) if you don't know how to do).
 
+**Note:** If you don't use Github, you can also provide feedback using [this form](https://forms.gle/rpXP6yMwvBSGZ4hv8).
+
 This list is not supposed to be comprehensive. It is curated and only focuses on "awesome" content, i.e. the goal of this list is to have a low noise-to-signal ratio.
 
 Surely, "awesomeness" can be subjective, but some basic rules can be applied to know what is worth listing or not, for instance:
